@@ -12,7 +12,7 @@ export default function Assignment10({ setCurrentPage }) {
             url: "https://drive.google.com/file/d/1AI-jv_y7YXaTpIQhBRmLm9NkSUshbub6/preview",
         },
         {
-            url: "https://drive.google.com/drive/folders/1OUs53Z9BFF1g_HtBsKS3C6gP0TCXNtrP?usp=sharing/preview",
+            url: "https://www.youtube.com/watch?v=1fvhCbiIMYQ/preview",
         }
     ];
 
@@ -117,3 +117,4 @@ export default function Assignment10({ setCurrentPage }) {
         </div>
     );
 }
+
